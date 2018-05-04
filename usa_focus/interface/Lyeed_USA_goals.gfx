@@ -1,0 +1,17 @@
+spriteTypes = {
+
+	SpriteType = {
+		name = "GFX_focus_usa_haiti"
+		texturefile = "gfx/interface/goals/focus_usa_haiti.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_focus_usa_nicaragua"
+		texturefile = "gfx/interface/goals/focus_usa_nicaragua.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_focus_usa_venezuela"
+		texturefile = "gfx/interface/goals/focus_usa_venezuela.dds"
+	}
+}

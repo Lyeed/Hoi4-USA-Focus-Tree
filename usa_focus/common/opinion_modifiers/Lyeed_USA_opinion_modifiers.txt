@@ -1,0 +1,31 @@
+#########################################################################
+# OPINION MODIFIERS
+##########################################################################
+# value
+# min_trust
+# max_trust
+# decay
+# months/years/days = timer
+# trade = yes/no
+
+opinion_modifiers = {
+	############################### USA ###############################
+	good_neighbor_policy_modifier = {
+		value = 60
+	}
+	montevideo_modifier = {
+		value = 15
+	}
+	good_neighbor_fleet_modifier = {
+		value = 15
+	}
+	big_stick_policy_modifier = {
+		value = -30
+	}
+	independance_canceled_modifier = {
+		value = -50
+	}
+	independance_granted_modifier {
+		value = 100
+	}
+}

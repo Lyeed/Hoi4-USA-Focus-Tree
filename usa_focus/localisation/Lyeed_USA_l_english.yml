@@ -1,0 +1,229 @@
+﻿l_english:
+
+########################## focus ##########################
+USA_good_neighbor_policy:0 "Good Neighbor policy"
+USA_good_neighbor_policy_desc:0 ""
+USA_good_neighbor_policy_tt:0 "§GImprove§! relations with all §YAmerican countries§! while guaranteeing that no armed intervention will interfere in inter-American affairs."
+#
+USA_montevideo:0 "Montevideo Convention"
+USA_montevideo_desc:0 "The Montevideo Convention on the Rights and Duties of States is a treaty signed at Montevideo, Uruguay, on December 26, 1933, during the Seventh International Conference of American States. The Convention codifies the declarative theory of statehood as accepted as part of customary international law."
+USA_montevideo_tt:0 "Invite §YAmerican states§! to ratify a convention that sets out the definition, rights and duties of statehood."
+#
+USA_good_neighbor_fleet:0 "Good Neighbor Fleet"
+USA_good_neighbor_fleet_desc:0 ""
+#
+USA_RTA:0 "Reciprocal Tariff Act"
+USA_RTA_desc:0 ""
+#
+USA_OCIAA:0 "Office of Inter-American Affairs"
+USA_OCIAA_desc:0 ""
+#
+USA_neutrality_act:0 "Neutrality Act"
+USA_neutrality_act_desc:0 ""
+#
+USA_interventionism:0 "Interventionism Act"
+USA_interventionism_desc:0 ""
+USA_interventionism_tt:0 "§RCitizens and the congress might protest and pressure your government leading to mass strikes and political crisis.§!\n"
+#
+USA_big_stick_policy:0 "Big Stick policy"
+USA_big_stick_policy_desc:0 ""
+USA_big_stick_policy_tt:0 "Our relations with most of §YAmerican states§! will §Rdegrade§! since this policy is in total contradiction with the speech president Roosevelt hold at the Montevideo convention."
+#
+USA_naval_expansion_act:0 "Naval Expansion Act"
+USA_naval_expansion_act_desc:0 ""
+#
+USA_lend_lease_act:0 "Lend-lease Act"
+USA_lend_lease_act_desc:0 ""
+#
+USA_NRA:0 "National Recovery Administration"
+USA_NRA_desc:0 ""
+#
+USA_newdeal:0 "New Deal"
+USA_newdeal_desc:0 ""
+#
+USA_SSA:0 "Social Security Act"
+USA_SSA_desc:0 ""
+#
+USA_NYA:0 "National Younth Administration"
+USA_NYA_desc:0 ""
+#
+USA_WTA:0 "Wealth Tax Act"
+USA_WTA_desc:0 ""
+#
+USA_WPA:0 "Works Progress Administration"
+USA_WPA_desc:0 ""
+#
+USA_infra_eastcoast:0 "East coast infrastructures"
+USA_infra_eastcoast_desc:0 ""
+#
+USA_infra_westcoast:0 "West coast infrastructures"
+USA_infra_westcoast_desc:0 ""
+#
+USA_intervention_act:0 "Preventive intervention Act"
+USA_intervention_act_desc:0 ""
+#
+USA_training_act:0 "Selective Training and Service Act"
+USA_training_act_desc:0 ""
+#
+USA_tydingsact:0 "Philippines Independence Act"
+USA_tydingsact_desc:0 ""
+USA_tydingsact_tt:0 "Establish the process for the §YPhilippines§! to become an independent country after a ten-year transition period."
+#
+USA_phil_puppet:0 "Revise the Hare-Hawes-Cutting Act"
+USA_phil_puppet_desc:0 ""
+USA_phil_puppet_tt:0 "The Philippines becomes an §YPuppet§!."
+#
+USA_phil_exploit:0 "Develop the Philippines"
+USA_phil_exploit_desc:0 ""
+#
+USA_great_white_fleet:0 "Revive the Great White Fleet"
+USA_great_white_fleet_desc:0 ""
+#
+USA_protectionism:0 "Protectionism Act"
+USA_protectionism_desc:0 ""
+#
+USA_defend_america:0 "Continental Defense Act"
+USA_defend_america_desc:0 ""
+#
+USA_democracy_influence:0 "Democratic Influence"
+USA_democracy_influence_desc:0 ""
+#
+USA_fascist_influence:0 "Facist Influence"
+USA_fascist_influence_desc:0 ""
+#
+USA_communist_influence:0 "Communist Influence"
+USA_communist_influence_desc:0 ""
+#
+USA_Nicaragua:0 "Go back to Nicaragua"
+USA_Nicaragua_desc:0 ""
+#
+USA_Haiti:0 "Go back to Haiti"
+USA_Haiti_desc:0 ""
+#
+USA_venezuela:0 "Invade Venezuela"
+USA_venezuela_desc:0 ""
+#
+USA_the_giant_struggle:0 "The Giant Struggles"
+USA_the_giant_struggle_desc:0 ""
+#
+USA_tactical_air:0 "Tactical Aviation Development"
+USA_tactical_air_desc:0 ""
+#
+USA_tactical_bombing:0 "Tactical Bombing"
+USA_tactical_bombing_desc:0 ""
+#
+USA_air_corps_training_center:0 "Army Air Corps Training Center"
+USA_air_corps_training_center_desc:0 ""
+#
+USA_marine_corps:0 "United States Marine Corps"
+USA_marine_corps_desc:0 ""
+#
+USA_focus_shore_bomb:0 "Shore Bombing"
+USA_focus_shore_bomb_desc:0 ""
+#
+USA_army_maneuvers:0 "Army Maneuvers"
+USA_army_maneuvers_desc:0 ""
+#
+USA_tank_research:0 "The M4 Sherman"
+USA_tank_research_desc:0 ""
+USA_tank_research_tt:0 "Enables production of §HM4 Sherman§!"
+#
+USA_small_arms:0 "Equipment Effort"
+USA_small_arms_desc:0 ""
+#
+USA_combined_forces:0 "Combined Arms Forces"
+USA_combined_forces_desc:0 ""
+USA_combined_forces_tt:0 "Enables productions of §HM18 Hellcat§! and §HM12 Gun Motor Carriage§!.\n"
+#
+USA_utility_production:0 "Utility production"
+USA_utility_production_desc:0 ""
+#
+USA_rubber_survey_committee:0 "Rubber Survey Committee"
+USA_rubber_survey_committee_desc:0 ""
+#
+USA_metals_reserve_company:0 "Metals Reserve Company"
+USA_metals_reserve_company_desc:0 ""
+#
+USA_defense_plant_corporation:0 "Defense Plant Corporation"
+USA_defense_plant_corporation_desc:0 ""
+#
+USA_metals_reserve_company:0 "Metals Reserve Company"
+USA_metals_reserve_company_desc:0 ""
+#
+USA_pretroleum_reserve_company:0 "Petroleum Reserve Corporation"
+USA_pretroleum_reserve_company_desc:0 ""
+#
+USA_rubber_survey_committee:0 "Rubber Survey Committee"
+USA_rubber_survey_committee_desc:0 ""
+#
+USA_RFC:0 "Reconstruction Finance Corporation"
+USA_RFC_desc:0 ""
+#
+USA_industry_1:0 "Industry Development"
+USA_industry_1_desc:0 ""
+#
+USA_industry_2:0 "Industry Development"
+USA_industry_2_desc:0 ""
+#
+USA_industry_3:0 "Industry Development"
+USA_industry_3_desc:0 ""
+#
+USA_fascist_rain:0 "Fascist Rain"
+USA_fascist_rain_desc:0 ""
+#
+USA_people_tank:0 "People Tank"
+USA_people_tank_desc:0 ""
+#
+USA_arsenal_fascism:0 "Arsenal of Fascism"
+USA_arsenal_fascism_desc:0 ""
+#
+USA_arsenal_communism:0 "Arsenal of Communism"
+USA_arsenal_communism_desc:0 ""
+#
+USA_war_plan_violet:0 "War Plan Violet"
+USA_war_plan_violet_desc:0 ""
+####################################################
+
+########################## ideas ##########################
+DPC:0 "Defense Plant Corporation"
+GWF:0 "The Great White Fleet"
+CDA:0 "Continental Defense Act"
+WTA:0 "Wealth Tax Act"
+BWA:0 "Burke-Wadsworth Act"
+SVA:0 "Second Vinson Act"
+NYA:0 "National Younth Administration"
+WPA:0 "Works Progress Administration"
+OWI:0 "United States Office of War Information"
+OCIAA:0 "Office of the Coordinator of Inter-American Affairs"
+reciprocal_tariff_act:0 "Reciprocal Tariff Act"
+preventive_interventionism:0 "Preventive Interventionism Act"
+lend_lease_act:0 "Lend-lease Act"
+liberty_ships:0 "Liberty Ships"
+the_great_depression:0 "The Great Depression"
+the_great_depression_desc:0 "Although a worldwide phenomenon, the Great Depression started with a stock market crash in the United States and has caused unemployment rates to soar and tax revenue to plummet. The American people and its government have enough to worry about without getting involved in another war."
+home_of_liberty:0 "Home of the Free"
+home_of_liberty_desc:0 "USA considers itself a bastion and maybe even the cradle of democracy and liberty. Whatever they choose to be, their values are difficult to compromise, however tempting some opportunities might seem."
+usa_influence_defence:0 "Ideological Protection"
+protectionism_policy:0 "Protectionist Foreign Policy"
+we_are_home:0 "Home Defense"
+shore_bombing:0 "Shore Bombardment Focus"
+utility_production:0 "Utility production"
+good_neighbor_policy:0 "Good Neighbor Policy"
+war_time_industry:0 "Wartime Industry"
+fascist_rain:0 "Fascist Rain"
+people_tank:0 "People Tank"
+us_neutrality_idea:0 "Neutral Foreign Policy"
+####################################################
+
+########################## opinion_modifiers ##########################
+montevideo_modifier:0 "Montevideo Convention"
+good_neighbor_fleet_modifier:0 "Good Neighbor Fleet"
+good_neighbor_policy_modifier:0 "Good Neighbor Policy"
+big_stick_policy_modifier:0 "Big Stick Policy"
+independance_canceled_modifier:0 "Independence Process Canceled"
+independance_granted_modifier:0 "Independence Granted"
+####################################################
+
+########################## advisors ##########################
+emil_schram:0 "Emil Schram"
+####################################################
